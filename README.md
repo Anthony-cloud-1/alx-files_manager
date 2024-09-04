@@ -1,6 +1,6 @@
 # Files Manager
 
-[![Coverage Status](https://coveralls.io/repos/github/Anthony-cloud-1/alx-files_manager/blob/main/badge.svg?branch=master)](https://coveralls.io/github/Anthony-cloud-1/alx-files_manager/blob/main/?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/Anthony-cloud-1/alx-files_manager/badge.svg?branch=master)](https://coveralls.io/github/Anthony-cloud-1/alx-files_manager?branch=master)
 
 A simple file management API built with Express, MongoDB, Redis, Bull, and Node.js.
 
